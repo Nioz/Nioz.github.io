@@ -2,7 +2,7 @@
 
 __name__ = "PyRSS2Gen"
 __version__ = (1, 1, 0)
-__author__ = "Nicholas Bertinelli <s1111355@monmouth.edu>"
+__author__ = "Nicholas Bertinelli"
 
 _generator_name = __name__ + "-" + ".".join(map(str, __version__))
 
